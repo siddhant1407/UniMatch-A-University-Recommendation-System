@@ -12,7 +12,7 @@ By scraping latest graduate data from active websites like YMGrad, TheGradCafe a
 ## Usage
 On the UI, input your details for the fields shown below and let the custom Weighted KNN algorithm do the magic for you. Sample inputs and output results are shown below.
 
-![image]([https://github.com/pbadhe/CureNsure/assets/44113251/6bad2f3c-9de3-4a3f-abb3-8f4ffea01496](https://drive.google.com/file/d/1sQsepl6YtwAEAGUgKyUdSt4mnswtlRnc/view?usp=sharing))
+![image](https://github.com/pbadhe/CureNsure/assets/44113251/6bad2f3c-9de3-4a3f-abb3-8f4ffea01496)
 ![image](https://github.com/pbadhe/CureNsure/assets/44113251/934e3458-dda6-47a1-87f1-a25e0f4beddd)
 
 ## Data
